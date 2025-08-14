@@ -26,6 +26,10 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## GraphQL
+
+This project comes with **GraphQL** installed and ready to use with NestJS.
+
 ## Project setup
 
 ```bash
